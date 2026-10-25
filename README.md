@@ -34,6 +34,8 @@
 
 Write and format your document directly, without switching between Markdown source and preview. Headings, lists, tables, links, and formulas take shape as you work.
 
+https://github.com/user-attachments/assets/616e0ea1-9624-4b0d-b280-ea90620fe036
+
 | Write naturally | Think visually |
 | --- | --- |
 | Headings, emphasis, highlights, and blockquotes | PlantUML and Mermaid diagrams |
@@ -65,9 +67,7 @@ Install the **AI Assistant** plugin and connect your preferred OpenAI-compatible
 
 Understand images with AI. Extract tables, recognize text, and transform visual information into editable, structured content.
 
-[![Watch AI Image Understanding](media/ai-image-understanding.jpg)](videos/ai-image-understanding.mp4)
-
-[▶ Watch AI Image Understanding](videos/ai-image-understanding.mp4)
+https://github.com/user-attachments/assets/0c6acf32-a272-42d4-8dc7-9b7c8ce60756
 
 ### 02 · Text to Diagram
 
@@ -75,9 +75,7 @@ Understand images with AI. Extract tables, recognize text, and transform visual 
 
 Describe your system architecture, workflows, or ideas in plain language. AI transforms them into clean, editable PlantUML diagrams.
 
-[![Watch Text to Diagram](media/ai-text-to-diagram.jpg)](videos/ai-text-to-diagram.mp4)
-
-[▶ Watch Text to Diagram](videos/ai-text-to-diagram.mp4)
+https://github.com/user-attachments/assets/cf2127fc-66f4-4bc3-91fa-58a9ab6a029c
 
 ### 03 · AI Writing Assistant
 
@@ -85,9 +83,7 @@ Describe your system architecture, workflows, or ideas in plain language. AI tra
 
 Continue your thoughts, rewrite sentences, and polish your writing with AI. Review suggested changes and decide what to keep.
 
-[![Watch AI Writing Assistant](media/ai-writing-assistant.jpg)](videos/ai-writing-assistant.mp4)
-
-[▶ Watch AI Writing Assistant](videos/ai-writing-assistant.mp4)
+https://github.com/user-attachments/assets/8be7a62a-3bda-458a-8760-f8e49c86fed2
 
 AI capabilities depend on the provider and model you choose. Image understanding requires a model that supports image input.
 
