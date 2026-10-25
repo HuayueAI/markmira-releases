@@ -122,11 +122,13 @@ Browse the [official plugin releases](https://github.com/HuayueAI/markmira-plugi
 
 ### Desktop downloads
 
+🎉 **Starting with v0.7.0, Markmira officially ships for Windows, macOS, and Linux.** Download the latest installer for your platform below.
+
 | Platform | Where to download |
 | --- | --- |
 | Windows | [Website downloads](https://www.markmira.top/#download) · [Release assets](https://github.com/HuayueAI/markmira-releases/releases/latest) |
-| macOS · Apple Silicon / Intel | [Website downloads](https://www.markmira.top/#download) |
-| Linux | [Website downloads](https://www.markmira.top/#download) |
+| macOS · Apple Silicon / Intel | [Release assets](https://github.com/HuayueAI/markmira-releases/releases/latest) · [Website downloads](https://www.markmira.top/#download) |
+| Linux | [Release assets](https://github.com/HuayueAI/markmira-releases/releases/latest) · [Website downloads](https://www.markmira.top/#download) |
 
 Choose an available build for your platform and architecture. The website also offers a China mirror download option.
 
